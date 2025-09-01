@@ -1,1 +1,1 @@
-Contains code for our Software Term Project
+Contains code for our Software Engineering Lab Term Project
